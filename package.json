@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "name": "To-Do",
+  "version": "0.0.1",
+  "dependencies": {
+    "angular" : "^1.4.*",
+    "ui-router" : "^0.0.1",
+    "todomvc-app-css" : "^1.0.0",
+    "todomvc-common" : "^1.0.1"
+  }
+}
